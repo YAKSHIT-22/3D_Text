@@ -18,7 +18,7 @@
 # Demo Website
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/IshanSingla/3D_Text/master/ezgif.com-gif-maker.gif"  height="90%"/>
+<img src="https://raw.githubusercontent.com/YAKSHIT-22/3D_Text/master/ezgif.com-gif-maker.gif"  height="90%"/>
 </p>
 https://yakshit-22.github.io/3D_Text/
 
